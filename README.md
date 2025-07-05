@@ -94,10 +94,9 @@ You can open the analysis directly in Excel:
 
 If you'd like to learn more or discuss this analysis, feel free to reach out:
 
-**Name**: Zeyad Osama 
-**Email**: zeyadosamamoh1@gmail.com
-**LinkedIn**: https://www.linkedin.com/in/zeyad-osama-a9345b339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-
+**Name**:Shahd Hassan
+**Email**: shahd306152hassan@gmail.com
+**LinkedIn**: www.linkedin.com/in/shahd-hassan-353425342
 ---
 
 ## ⭐ Acknowledgments
